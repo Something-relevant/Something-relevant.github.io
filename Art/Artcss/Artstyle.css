@@ -1,0 +1,134 @@
+body{
+    background-color: black;
+    
+}
+
+div{
+ 
+}
+
+.Container{
+    position: relative;
+    max-width: 1490px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.header{
+    max-width: 1490px;
+    height: 200px;
+    background-image: url(Artpics/8388be17636e50854023f5178ecf61e2.gif);
+    background-position: center;
+    background-repeat: no-repeat
+}
+
+.Title{
+    
+    Height:200px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+
+.Content{
+   width:1200px;
+   height:520px;
+   overflow-y: scroll;
+   overflow-x: hidden;
+   float: left;
+}
+
+.Description{
+    width: 290px;
+    height: 520px;
+    float: left;
+    background:url(Artpics/Purplebar2.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+
+.nextpage1{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin-top: 55px;
+    margin-left: 30px;
+    
+}
+
+.nextpage2{
+    width: 200px;
+    height: 80px;
+    float: right;
+    margin-top: 55px;
+    margin-right: 30px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-left: 190px;
+    font-size: 3.6rem;
+    padding-top: 128px;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 12px white;
+}
+
+a{
+    color: rgb(205, 124, 255);
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 8px #f852ff;
+}
+
+.nextpage1 a{
+    float: right;
+}
+
+.Picturebox{
+    width: 300px;
+    height: 320px;
+    padding: 20px 40px;
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+    
+   
+}
+
+.Picturebox a{
+    text-decoration: underline;
+    
+       
+}
+
+.descriptionsuper{
+    
+    width: 216px;
+    float: left;
+    
+}
+
+h4{
+    
+    font-family:'Nunito', sans-serif;
+    color: white;
+    font-size: 1.0rem;
+}
+
+p{
+    color: white;
+    font-family:'Nunito', sans-serif;
+}
+
+.descriptionsuper a{
+    
+    color: white;
+    font-size: 1.0rem;
+    font-family: 'Nunito',sans-serif;
+}

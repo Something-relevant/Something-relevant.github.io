@@ -1,0 +1,119 @@
+body{
+    background-color: black;
+    
+}
+
+.Container{
+    position: relative;
+    max-width: 1490px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.header{
+    max-width: 1490px;
+    height: 200px;
+     background-image: url(Photographypics/ElderlyCircularGroundhog-size_restricted.gif);
+    background-position: center;
+    background-repeat: no-repeat
+}
+
+.Title{
+    
+    Height:200px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+
+.Content{
+   width:1200px;
+   height:520px;
+    margin-top: 10px;
+   overflow-y: scroll;
+   float: left;
+}
+
+.Description{
+    width: 290px;
+    height: 520px;
+    float: left;
+    background-image: url(Photographypics/Purplebar23.jpg);
+    background-repeat: no-repeat;
+    background-position: right
+}
+
+.nextpage1{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin-top: 55px;
+    margin-left: 30px;
+    
+}
+
+.nextpage2{
+    width: 200px;
+    height: 80px;
+    float: right;
+    margin-top: 55px;
+    margin-right: 30px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 2.95rem;
+    padding-top: 60px;
+    margin-left: 175px;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 12px white;
+}
+
+a{
+    color: #d0b3ff;
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 9px rgb(183, 130, 255);
+}
+
+.nextpage1 a{
+    float: right;
+}
+
+.imagebox{
+    width: 300px;
+    height: 300px;
+    padding: 20px 40px;
+    margin-left: 10px;
+    float: left;
+}
+
+.descriptionsuper{
+    width: 220px;
+    float: left;
+    
+}
+
+h4{
+    
+    font-family:'Nunito', sans-serif;
+    color: white;
+    font-size: 1.0rem;
+}
+
+p{
+    color: white;
+    font-family:'Nunito', sans-serif;
+}
+
+.descriptionsuper a{
+    
+    color: white;
+    font-size: 1.0rem;
+    font-family: 'Nunito',sans-serif;
+}
