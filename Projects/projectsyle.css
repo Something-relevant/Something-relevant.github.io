@@ -82,6 +82,11 @@ a{
     text-shadow: 2px 2px 9px rgb(255, 103, 167);
 }
 
+a:hover{
+    
+  color: #ffffff;  
+}
+
 .nextpage1 a{
     float:right; 
 }

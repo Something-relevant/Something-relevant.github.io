@@ -70,6 +70,11 @@ a{
     text-shadow: 2px 2px 10px white;
 }
 
+a:hover{
+    color: #ff970a;
+    background-color: rgba(0, 0, 0, 0);
+}
+
 p{
     color: white;
     font-family: 'Nunito', sans-serif;
